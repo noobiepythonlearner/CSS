@@ -1,0 +1,36 @@
+.class1{
+    color: rgb(240, 236, 236);
+    text-align: center;
+    background-color: rgb(48, 59, 70);
+    background-position: bottom;}
+
+    .class5{text-transform: uppercase;
+text-decoration: double;
+word-spacing: .5mm;
+letter-spacing: 2mm;
+line-height: 2cm;  
+border: 1px dashed white;  
+}
+.class3{
+    text-align: center;
+}
+.class0{
+    background-color: rgb(95, 95, 95);
+     
+    margin-left: 0cm;
+    margin-right: 0cm;
+    margin-top: 0cm;
+}
+.class6{
+    color: aliceblue;
+    background-color: rgb(141, 134, 126);
+    border: 2px dashed rgb(12, 10, 10);
+    padding: 10px;
+    margin: 30px;
+}
+.class7{
+    text-align: end;
+    color: black;
+    
+    
+}

@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(5, 5, 5);
+    height: 80px
+
+    ;
+    
+}
+header img{
+    margin-top: 10px;
+}
+
+.class1{background-image: url("../images/open-restaurent-2.jpeg");
+    background-size: cover;
+    background-repeat:no-repeat ;
+    height: 500px;
+}
+.list{
+    margin-left: 3cm;
+    color: rgb(184, 24, 0);
+    line-height: 1cm;
+}.class4{
+    margin-left: 900px;
+    border: 5px;
+    border-color: rgb(12, 11, 11);
+    background-color: peru;
+    height: 300px;
+    width: 250px;
+}.class2{
+    margin-left: 3cm;}
+    .link{
+       float: right;
+       margin-top: 30px;
+    }
+    .link a{
+        color: yellow;
+        margin-right: 10px;
+        border: 1px solid white;
+        text-decoration: none;
+        padding: 10px;
+    }
+    .first{
+        
+        
+        background-color: red;
+         float: right; 
+        width: 33%;
+        height: 390px;
+        text-align: left;
+        
+    
+    }
+    .first img{
+        height: 180px;
+        width: 180px;
+    }
+    .second{
+        background-color: rgb(197, 157, 26);
+        
+        float: right;
+        width: 33%;
+        height: 390px;
+        text-align: left;
+    }
+    .second img{
+        height: 180px;
+        width: 180px;
+    }
+    .third{
+        background-color: rgb(240, 114, 240);
+        text-align: left;
+        float: right;
+        width: 34%;
+        height: 390px;
+        
+    }
+    .third img{
+        height: 180px;
+        width:180px;
+    }
+    .main{
+        width: 100%;     }
+    .class4{
+        text-align: center;
+    }
+    .class5{
+        text-align: center;
+    }
+    .class6{
+        text-align: center;
+    }
+    .class7{
+        text-align: center;
+    }
+    .class8{
+        text-align: center;
+    }
+    footer{
+        background-color: black;
+        color: white;
+        text-align: center;
+        font-size: larger;
+    }
+
+
+    
+

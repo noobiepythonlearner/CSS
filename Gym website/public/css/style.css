@@ -1,0 +1,114 @@
+.body{
+    background-image: url(../image/gym\ background.jpg);
+}
+.form{
+    border: 5px black;
+    padding-left: 35px;
+    padding-right: 35px;
+    
+
+}
+header h3{
+    color: aliceblue;
+    margin-left: 23px;
+    
+}
+#name{
+    color: gray;
+    padding-left: 43px;  
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    border-radius: 3px;
+    margin-left: 2.0cm;
+    
+}
+#age{
+    color: gray;
+    padding-left: 43px;
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    border-radius: 3px;
+    margin-left: 2.0cm;
+    
+    padding: auto;
+}
+#gender{
+    color: gray;
+    padding-left: 43px;
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    
+    border-radius: 3px;
+    margin-left: 2.0cm;
+}
+#location{
+    color: gray;
+    padding-left: 43px;
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    
+    border-radius: 3px;
+    margin-left: 2.0cm;
+}
+#phone{
+    padding-left: 43px;
+    color: gray;
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    
+    border-radius: 3px;
+    margin-left: 2.0cm;
+}
+
+#email{
+    
+    padding-left: 43px;
+    color: gray;
+    border-radius: 3px;
+    padding-top: 7px; 
+    padding-bottom: 7px;
+    margin-left: 2.0cm;
+}
+.submit{
+    margin-left: 3.3cm;
+    
+}    
+#submit{
+    background-color: black;
+    color: white;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    border-radius: 8px;
+
+}
+
+
+.link a{
+    text-decoration: none;
+    margin-right: 25px;
+    color: aliceblue;
+    
+}
+.link2 a{
+    text-decoration: none;
+    color: aliceblue;
+    border: 1px solid white ;
+    margin-right: 20px;
+    padding: 7px;
+    float: right;
+    border-radius: 5px;
+    margin-top: -.8cm;
+    
+}
+.form{
+    border: 2px solid black;
+    height: 11cm ;
+    width: 9.6cm;
+    border-radius: 9px;
+    margin-top: 4cm;
+    margin-left: 2cm;
+}
+.link{
+    margin-left: 10cm;
+    margin-top: -3cm;
+}
